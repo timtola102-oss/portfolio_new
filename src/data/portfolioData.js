@@ -6,7 +6,7 @@ export const USER_PROFILE = {
   subTitle: "Building resilient digital products with elegant architectures.",
   bio: "I am a Software Engineering student passionate about full-stack web development. I enjoy building modern applications using JavaScript, TypeScript, React, Vue.js, Node.js, Express, Laravel, and MySQL. Through academic and personal projects, I have developed experience in designing responsive user interfaces, building RESTful APIs, and managing databases. I am continuously learning new technologies and seeking opportunities to grow as a software developer.",
   resumeUrl: "#",
-  avatarUrl: "src/images/photo_2026-05-23_19-42-21.jpg",
+  avatarUrl: "/images/photo_2026-05-23_19-42-21.jpg",
 };
 
 export const SOCIAL_LINKS = [
@@ -104,7 +104,7 @@ export const PROJECTS = [
     role: "Scrum Master & Full-Stack Developer",
     period: "February 15, 2026 - March 16, 2026",
     category: "Web App",
-    image:"src/images/project/photo_2026-06-05_07-26-47.jpg",
+    image:"/images/project/photo_2026-06-05_07-26-47.jpg",
     description:
       "Worked in a team-based school project to develop an Alumni Media Platform. Served as Scrum Master, managing Agile workflow, sprint planning, task distribution, and team coordination.",
     longDescription:
@@ -127,7 +127,7 @@ export const PROJECTS = [
     role: "Project Manager & Developer",
     period: "December 22, 2025 - January 5, 2026",
     category: "Web App",
-     image:"src/images/project/photo_2026-06-05_07-45-20.jpg",
+     image:"/images/project/photo_2026-06-05_07-45-20.jpg",
     description:
       "Developed an Expense Tracker web application using JavaScript and LocalStorage with full CRUD functionality.",
     longDescription:
@@ -142,7 +142,7 @@ export const PROJECTS = [
     role: "DevOps",
     period: "December 15, 2025 - December 21, 2025",
     category: "Deployment Project",
-    image:"src/images/project/photo_2025-12-12_19-58-17.jpg",
+    image:"/images/project/photo_2025-12-12_19-58-17.jpg",
     description:
       "Assisted in deploying web applications built with Laravel and Node.js for school projects.",
     longDescription:
@@ -156,7 +156,7 @@ export const PROJECTS = [
     role: "Full-Stack Developer",
     period: "October 20, 2025 - November 2, 2025",
     category: "Web App",
-    image:"src/images/project/image.png",
+    image:"/images/project/image.png",
     description:
       "Developed a web-based Student Performance System to track and analyze student scores across different time periods.",
     longDescription:
